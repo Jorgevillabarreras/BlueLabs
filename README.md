@@ -38,7 +38,7 @@ Abrimos el pcap en wireshark y como sabemos que fue un empleado interno `192.168
 
 Vamos un get con un Invoice.pdf pero tambien tiene la extension poco usual de `.bat` le vamos a dar `right-click` → `Follow` → `TCP Stream` y vamos a ver la conversacion completa
 
-![Untitled](Pretium%207efaa/Untitled%201.png)
+![Untitled](Pretium%207efaa/Untitled2.png)
 
 ---
 
@@ -52,7 +52,7 @@ Como podemos ver en el 200 OK de donde bajamos el file podemos ver donde dice `S
 
 `SimpleHTTP/0.6 Python/3.8.5` que es un modulo de Python para montar un server para que bajen cosas como podemos ver en screenshot
 
-![Untitled](Pretium%207efaa/Untitled%202.png)
+![Untitled](Pretium%207efaa/Untitled3.png)
 
 ---
 
@@ -64,7 +64,7 @@ Analysing the traffic, what is the attacker's IP address?*(4 points)*
 
 Como podemos ver en el Pcap y en el GET request bajamos el file de atacante con el IP 192.168.1.9
 
-![Untitled](Pretium%207efaa/Untitled%203.png)
+![Untitled](Untitled4.png)
 
 ---
 
@@ -76,7 +76,7 @@ Now that you know the payload name and the module used to deliver the malicious 
 
 Toda esta informacion lo vimos en las anteriores preguntas solo necesitamos juntarlo todo
 
-![Untitled](Pretium%207efaa/Untitled%204.png)
+![Untitled](Untitled5.png)
 
 ---
 
@@ -88,7 +88,7 @@ Find the PowerShell launcher string (you don’t need to include the base64 enco
 
 En mismo sitio encontramos la respuesta a la pregunta
 
-![Untitled](Pretium%207efaa/Untitled%205.png)
+![Untitled](Untitled6.png)
 
 ---
 
