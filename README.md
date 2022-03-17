@@ -34,7 +34,7 @@ What is the full filename of the initial payload file?
 
 Abrimos el pcap en wireshark y como sabemos que fue un empleado interno `192.168.1.9` y nuestro IP es `192.168.1.8` vamos a `Stadistics` → `Conversation` y marcamos cual es el paquerte mas grande que se transferio y le damos `right-click` para que lo para preparar el filtro que queremos `A<->B` y le damos enter.
 
-![Untitled](Pretium%207efaa/Untitled.png)
+![Untitled](Untitled.png)
 
 Vamos un get con un Invoice.pdf pero tambien tiene la extension poco usual de `.bat` le vamos a dar `right-click` → `Follow` → `TCP Stream` y vamos a ver la conversacion completa
 
