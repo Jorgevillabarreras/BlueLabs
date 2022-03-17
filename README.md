@@ -38,7 +38,7 @@ Abrimos el pcap en wireshark y como sabemos que fue un empleado interno `192.168
 
 Vamos un get con un Invoice.pdf pero tambien tiene la extension poco usual de `.bat` le vamos a dar `right-click` → `Follow` → `TCP Stream` y vamos a ver la conversacion completa
 
-![Untitled](Pretium%207efaa/Untitled2.png)
+![Untitled](Untitled2.png)
 
 ---
 
@@ -52,7 +52,7 @@ Como podemos ver en el 200 OK de donde bajamos el file podemos ver donde dice `S
 
 `SimpleHTTP/0.6 Python/3.8.5` que es un modulo de Python para montar un server para que bajen cosas como podemos ver en screenshot
 
-![Untitled](Pretium%207efaa/Untitled3.png)
+![Untitled](Untitled3.png)
 
 ---
 
